@@ -12,7 +12,7 @@ include( "arr/index_sidenav_cards.php" );
                  <!-- Background -->
                  <div class="card-bg">
                      <div class="card-bg-img bg-cover"
-                         style="background-image: url(assets/img/products/product-73.jpg);"></div>
+                         style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-73.jpg);"></div>
                  </div>
 
                  <!-- Body -->
@@ -114,7 +114,7 @@ include( "arr/index_sidenav_cards.php" );
 
                      <!-- Card -->
                      <div class="card mb-7 bg-cover"
-                         style="min-height: 240px; background-image: url(assets/img/products/product-82.jpg);">
+                         style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-82.jpg);">
 
                          <!-- Badge -->
                          <div class="badge bg-dark card-badge card-badge-start text-uppercase">
@@ -150,7 +150,7 @@ include( "arr/index_sidenav_cards.php" );
 
                      <!-- Card -->
                      <div class="card mb-7 bg-cover"
-                         style="min-height: 240px; background-image: url(assets/img/products/product-83.jpg);">
+                         style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-83.jpg);">
 
                          <!-- Overlay -->
                          <div class="card-img-overlay card-img-overlay-hover align-items-center bg-white-90">
@@ -187,7 +187,7 @@ include( "arr/index_sidenav_cards.php" );
                  <!-- Background -->
                  <div class="card-bg">
                      <div class="card-bg-img bg-cover"
-                         style="background-image: url(assets/img/products/product-84.jpg);"></div>
+                         style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-84.jpg);"></div>
                  </div>
 
                  <!-- Body -->
@@ -212,7 +212,7 @@ include( "arr/index_sidenav_cards.php" );
 
                      <!-- Card -->
                      <div class="card mb-7 bg-cover"
-                         style="min-height: 240px; background-image: url(assets/img/products/product-85.jpg);">
+                         style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-85.jpg);">
 
                          <!-- Overlay -->
                          <div class="card-img-overlay card-img-overlay-hover align-items-center bg-white-90">
@@ -243,7 +243,7 @@ include( "arr/index_sidenav_cards.php" );
 
                      <!-- Card -->
                      <div class="card mb-7 bg-cover"
-                         style="min-height: 240px; background-image: url(assets/img/products/product-86.jpg);">
+                         style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-86.jpg);">
 
                          <!-- Badge -->
                          <div class="badge bg-white text-body card-badge card-badge-start text-uppercase">

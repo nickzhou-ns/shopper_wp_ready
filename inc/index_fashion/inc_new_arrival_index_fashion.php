@@ -3,7 +3,7 @@ $arr_new_arrivals = array(
   array(
     'id' => '1',
     'title' => "Striped knit Top",
-    'img' => 'assets/img/products/product-26.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-26.jpg',
     'url' => 'product.php',
     'sum' => '$39.00',
 
@@ -12,7 +12,7 @@ $arr_new_arrivals = array(
   array(
     'id' => '2',
     'title' => "Floral print Dress",
-    'img' => 'assets/img/products/product-25.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-25.jpg',
     'url' => 'product.php',
     'sum' => '$60.00',
     'text' => 'Dress',
@@ -22,7 +22,7 @@ $arr_new_arrivals = array(
   array(
     'id' => '3',
     'title' => "Straight Trousers with Belt",
-    'img' => 'assets/img/products/product-28.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-28.jpg',
     'url' => 'product.php',
     'sum' => '$79.00',
     'text' => 'Trousers',
@@ -31,7 +31,7 @@ $arr_new_arrivals = array(
   array(
     'id' => '4',
     'title' => "Fine quality jeans",
-    'img' => 'assets/img/products/product-27.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-27.jpg',
     'url' => 'product.php',
     'sum' => '$69.00',
 

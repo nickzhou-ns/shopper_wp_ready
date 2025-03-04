@@ -2,7 +2,7 @@
 $arr_new_arrivals = array(
   array(
     'id' => '1',
-    'img' => 'assets/img/products/product-13.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-13.jpg',
     'stars' => '3',
     'type' => ' Shoes ',
     'title' => 'Low top Sneakers',
@@ -12,7 +12,7 @@ $arr_new_arrivals = array(
   ),
   array(
     'id' => '2',
-    'img' => 'assets/img/products/product-14.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-14.jpg',
     'stars' => ' 5 ',
     'type' => ' Dresses ',
     'title' => ' Cotton print Dress ',
@@ -22,7 +22,7 @@ $arr_new_arrivals = array(
   ),
   array(
     'id' => '3',
-    'img' => 'assets/img/products/product-15.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-15.jpg',
     'stars' => '4 ',
     'type' => ' T-shirts ',
     'title' => ' Oversized print T-shirt ',
@@ -32,7 +32,7 @@ $arr_new_arrivals = array(
   ),
   array(
     'id' => '4',
-    'img' => 'assets/img/products/product-16.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-16.jpg',
     'stars' => '5',
     'type' => ' Bags & Accessories ',
     'title' => ' Suede cross body Bag ',

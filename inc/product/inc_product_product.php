@@ -32,21 +32,21 @@
               <div class="col-12 px-2" style="max-width: 113px;"> 
                 
                 <!-- inc_Image -->
-                <div class="ratio ratio-1x1 bg-cover" style="background-image: url(assets/img/products/product-7.jpg);"></div>
+                <div class="ratio ratio-1x1 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-7.jpg);"></div>
               </div>
               
               <!-- inc_Item -->
               <div class="col-12 px-2" style="max-width: 113px;"> 
                 
                 <!-- inc_Image -->
-                <div class="ratio ratio-1x1 bg-cover" style="background-image: url(assets/img/products/product-122.jpg);"></div>
+                <div class="ratio ratio-1x1 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-122.jpg);"></div>
               </div>
               
               <!-- inc_Item -->
               <div class="col-12 px-2" style="max-width: 113px;"> 
                 
                 <!-- inc_Image -->
-                <div class="ratio ratio-1x1 bg-cover" style="background-image: url(assets/img/products/product-146.jpg);"></div>
+                <div class="ratio ratio-1x1 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-146.jpg);"></div>
               </div>
             </div>
           </div>
@@ -87,10 +87,10 @@
                 <!-- inc_Radio -->
                 <div class="mb-8 ms-n1">
                   <div class="form-check form-check-inline form-check-img">
-                    <input type="radio" class="form-check-input" id="imgRadioOne" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="White" style="background-image: url(assets/img/products/product-7.jpg);" checked>
+                    <input type="radio" class="form-check-input" id="imgRadioOne" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="White" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-7.jpg);" checked>
                   </div>
                   <div class="form-check form-check-inline form-check-img">
-                    <input type="radio" class="form-check-input" id="imgRadioTwo" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="Black" style="background-image: url(assets/img/products/product-49.jpg);">
+                    <input type="radio" class="form-check-input" id="imgRadioTwo" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="Black" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-49.jpg);">
                   </div>
                 </div>
               </div>

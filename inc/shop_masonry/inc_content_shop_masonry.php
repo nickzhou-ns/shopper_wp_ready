@@ -394,7 +394,7 @@ include( "arr/shop_masonry_cards.php" );
       <div class="col-12 col-xl-6 d-flex flex-column"> 
         
         <!-- Card --> 
-        <a class="card mb-7 bg-cover" href="product.php" style="min-height: 510px; background-image: url(assets/img/products/product-88.jpg);"></a> </div>
+        <a class="card mb-7 bg-cover" href="product.php" style="min-height: 510px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-88.jpg);"></a> </div>
       <div class="col-12 col-xl-6">
         <div class="row">
           <?php foreach ($arr_cards_1 as $k => $val) { ?>
@@ -453,7 +453,7 @@ include( "arr/shop_masonry_cards.php" );
           <div class="col-12 col-md-6 col-xl-12"> 
             
             <!-- Card -->
-            <div class="card mb-7 bg-cover" style="min-height: 240px; background-image: url(assets/img/products/product-82.jpg);"> 
+            <div class="card mb-7 bg-cover" style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-82.jpg);"> 
               
               <!-- Badge -->
               <div class="badge bg-dark card-badge card-badge-start text-uppercase"> Sale </div>
@@ -475,7 +475,7 @@ include( "arr/shop_masonry_cards.php" );
           <div class="col-12 col-md-6 col-xl-12"> 
             
             <!-- Card -->
-            <div class="card mb-7 bg-cover" style="min-height: 240px; background-image: url(assets/img/products/product-83.jpg);"> 
+            <div class="card mb-7 bg-cover" style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-83.jpg);"> 
               
               <!-- Overlay -->
               <div class="card-img-overlay card-img-overlay-hover align-items-center bg-white-90">
@@ -499,17 +499,17 @@ include( "arr/shop_masonry_cards.php" );
         <div data-flickity='{"prevNextButtons": true}'> 
           
           <!-- Card --> 
-          <a class="w-100 mb-7 bg-cover" href="product.php" style="min-height: 510px; background-image: url(assets/img/products/product-81.jpg);"></a> 
+          <a class="w-100 mb-7 bg-cover" href="product.php" style="min-height: 510px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-81.jpg);"></a> 
           
           <!-- Card--> 
-          <a class="w-100 mb-7 bg-cover" href="product.php" style="min-height: 510px; background-image: url(assets/img/products/product-84.jpg);"></a> </div>
+          <a class="w-100 mb-7 bg-cover" href="product.php" style="min-height: 510px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-84.jpg);"></a> </div>
       </div>
       <div class="col-12 col-xl-3">
         <div class="row">
           <div class="col-12 col-md-6 col-xl-12"> 
             
             <!-- Card -->
-            <div class="card mb-7 bg-cover" style="min-height: 240px; background-image: url(assets/img/products/product-85.jpg);"> 
+            <div class="card mb-7 bg-cover" style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-85.jpg);"> 
               
               <!-- Overlay -->
               <div class="card-img-overlay card-img-overlay-hover align-items-center bg-white-90">
@@ -528,7 +528,7 @@ include( "arr/shop_masonry_cards.php" );
           <div class="col-12 col-md-6 col-xl-12"> 
             
             <!-- Card -->
-            <div class="card mb-7 bg-cover" style="min-height: 240px; background-image: url(assets/img/products/product-86.jpg);"> 
+            <div class="card mb-7 bg-cover" style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-86.jpg);"> 
               
               <!-- Badge -->
               <div class="badge bg-white text-body card-badge card-badge-start text-uppercase"> New </div>

@@ -3,37 +3,37 @@ $arr_details = array(
   array(
     'id' => '1',
     'title' => "Cropped cotton Top",
-    'img' => 'assets/img/products/product-50.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-50.jpg',
     'sum' => '$29.00',
   ),
   array(
     'id' => '2',
     'title' => "Cropped cotton Top",
-    'img' => 'assets/img/products/product-51.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-51.jpg',
     'sum' => '$29.00',
   ),
   array(
     'id' => '3',
     'title' => "Cropped cotton Top",
-    'img' => 'assets/img/products/product-52.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-52.jpg',
     'sum' => '$29.00',
   ),
   array(
     'id' => '4',
     'title' => "Cropped cotton Top",
-    'img' => 'assets/img/products/product-53.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-53.jpg',
     'sum' => '$29.00',
   ),
   array(
     'id' => '5',
     'title' => "Suede Sandals",
-    'img' => 'assets/img/products/product-127.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-127.jpg',
     'sum' => '$69.00',
   ),
   array(
     'id' => '6',
     'title' => "Basic Polo T-Shirt",
-    'img' => 'assets/img/products/product-128.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-128.jpg',
     'sum' => '$22.00',
   ),
 );

@@ -4,18 +4,18 @@ $arr_description = array(
     'id' => '1',
     'title' => "Take out the Lens from the container",
     'text' => "Under above saying waters saying wherein stars fourth made appear won't darkness fill, form rule i dry his god.",
-    'img' => 'assets/img/products/product-99.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-99.jpg',
   ),
   array(
     'id' => '2',
     'title' => "Put the lens on a clean and dry finger",
     'text' => "Under above saying waters saying wherein stars fourth made appear won't darkness fill, form rule i dry his god.",
-    'img' => 'assets/img/products/product-100.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-100.jpg',
   ), array(
     'id' => '3',
     'title' => "Look upward as you place it on your eye.",
     'text' => "Under above saying waters saying wherein stars fourth made appear won't darkness fill, form rule i dry his god.",
-    'img' => 'assets/img/products/product-101.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-101.jpg',
   ),
 
 );

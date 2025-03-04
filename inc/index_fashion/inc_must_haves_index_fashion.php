@@ -20,7 +20,7 @@
       <div class="col-12 col-md-6"> 
         
         <!-- Image -->
-        <div class="h-100 vw-50 bg-cover" style="background-image: url(assets/img/covers/cover-10.jpg);"></div>
+        <div class="h-100 vw-50 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-10.jpg);"></div>
       </div>
     </div>
   </div>

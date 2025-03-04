@@ -19,7 +19,7 @@
       array(
         'id' => '1',
         'title' => "Cotton floral print Dress",
-        'img' => 'assets/img/products/product-6.jpg',
+        'img' => get_template_directory_uri() . 'assets/img/products/product-6.jpg',
         'url' => 'product.php',
         'sum' => '<span class="text-muted">$40.00</span>',
         'sale' => '',
@@ -27,7 +27,7 @@
       array(
         'id' => '2',
         'title' => "Suede cross body Bag",
-        'img' => 'assets/img/products/product-10.jpg',
+        'img' => get_template_directory_uri() . 'assets/img/products/product-10.jpg',
         'url' => 'product.php',
         'sum' => '              <span class="fs-xs text-gray-350 text-decoration-line-through">$85.00</span>
             <span class="text-primary">$49.00</span>',
@@ -38,7 +38,7 @@
       array(
         'id' => '3',
         'title' => "Cotton leaf print Shirt",
-        'img' => 'assets/img/products/product-32.jpg',
+        'img' => get_template_directory_uri() . 'assets/img/products/product-32.jpg',
         'url' => 'product.php',
         'sum' => '<span class="text-muted">$65.00</span>',
         'sale' => '',
@@ -46,7 +46,7 @@
       array(
         'id' => '4',
         'title' => "Leather Sneakers",
-        'img' => 'assets/img/products/product-7.jpg',
+        'img' => get_template_directory_uri() . 'assets/img/products/product-7.jpg',
         'url' => 'product.php',
         'sum' => '<a class="text-primary" href="#">Select Options</a>',
         'sale' => '',
@@ -54,7 +54,7 @@
       array(
         'id' => '5',
         'title' => "Another fine dress",
-        'img' => 'assets/img/products/product-11.jpg',
+        'img' => get_template_directory_uri() . 'assets/img/products/product-11.jpg',
         'url' => 'product.php',
         'sum' => '<span class="text-muted">$99.00</span>',
         'sale' => '',
@@ -62,7 +62,7 @@
       array(
         'id' => '6',
         'title' => "Baseball Cap",
-        'img' => 'assets/img/products/product-33.jpg',
+        'img' => get_template_directory_uri() . 'assets/img/products/product-33.jpg',
         'url' => 'product.php',
         'sum' => '<span class="text-muted">$10.00</span>',
         'sale' => '',
@@ -70,7 +70,7 @@
       array(
         'id' => '7',
         'title' => "Leather sneakers",
-        'img' => 'assets/img/products/product-49.jpg',
+        'img' => get_template_directory_uri() . 'assets/img/products/product-49.jpg',
         'url' => 'product.php',
         'sum' => '<span class="text-muted">$19.00</span>',
         'sale' => '',

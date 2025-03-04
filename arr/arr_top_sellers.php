@@ -3,8 +3,8 @@ $arr_new_arrivals = array(
   array(
     'id' => '1',
     'title' => "Leather mid-heel Sandals",
-    'img_lg' => 'assets/img/products/product-142.jpg',
-    'img' => 'assets/img/products/product-5.jpg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/products/product-142.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-5.jpg',
     'url' => 'product.php',
     'sum' => '<div class="fs-sm fw-bold text-muted">$129.00</div>',
     'text' => 'Shoes',
@@ -15,8 +15,8 @@ $arr_new_arrivals = array(
   array(
     'id' => '2',
     'title' => "Cotton floral print Dress",
-    'img_lg' => 'assets/img/products/product-143.jpg',
-    'img' => 'assets/img/products/product-6.jpg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/products/product-143.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-6.jpg',
     'url' => 'product.php',
     'sum' => '                      <div class="fs-sm fw-bold text-muted">
             $40.00
@@ -32,7 +32,7 @@ $arr_new_arrivals = array(
     'id' => '3',
     'title' => "Leather Sneakers",
     'img_lg' => '',
-    'img' => 'assets/img/products/product-7.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-7.jpg',
     'url' => 'product.php',
     'sum' => '                      <div class="fs-xs fw-bold text-gray-350 text-decoration-line-through">
             $115.00
@@ -51,7 +51,7 @@ $arr_new_arrivals = array(
     'id' => '4',
     'title' => "Cropped cotton Top",
     'img_lg' => '',
-    'img' => 'assets/img/products/product-8.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-8.jpg',
     'url' => 'product.php',
     'sum' => '                      <div class="fs-sm fw-bold text-muted">
             $29.00
@@ -65,7 +65,7 @@ $arr_new_arrivals = array(
     'id' => '5',
     'title' => "Floral print midi Dress",
     'img_lg' => '',
-    'img' => 'assets/img/products/product-9.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-9.jpg',
     'url' => 'product.php',
     'sum' => '<div class="fs-sm fw-bold text-muted">
             $50.00
@@ -78,8 +78,8 @@ $arr_new_arrivals = array(
   array(
     'id' => '6',
     'title' => "Suede cross body Bag",
-    'img_lg' => 'assets/img/products/product-144.jpg',
-    'img' => 'assets/img/products/product-10.jpg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/products/product-144.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-10.jpg',
     'url' => 'product.php',
     'sum' => '                      <div class="fs-xs fw-bold text-gray-350 text-decoration-line-through">
             $79.00
@@ -98,7 +98,7 @@ $arr_new_arrivals = array(
     'id' => '7',
     'title' => "Printed A-line Skirt",
     'img_lg' => '',
-    'img' => 'assets/img/products/product-11.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-11.jpg',
     'url' => 'product.php',
     'sum' => '                      <div class="fs-sm fw-bold text-muted">
             $79.00
@@ -110,8 +110,8 @@ $arr_new_arrivals = array(
   array(
     'id' => '8',
     'title' => "Heel strappy Sandals",
-    'img_lg' => 'assets/img/products/product-145.jpg',
-    'img' => 'assets/img/products/product-12.jpg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/products/product-145.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-12.jpg',
     'url' => 'product.php',
     'sum' => '     <div class="fs-sm fw-bold text-muted">
             $90.00

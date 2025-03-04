@@ -1,6 +1,6 @@
 <!-- SALE -->
 <section   page="inc_sale_index_asymmetric" >
-  <div class="container bg-cover" style="background-image: url(assets/img/covers/cover-17.jpg);">
+  <div class="container bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-17.jpg);">
     <div class="row py-12 bg-dark-10">
       <div class="col-12 text-center text-white"> 
         

@@ -16,7 +16,7 @@
         
         <!-- inc_Button --> 
         <a href="#!" class="btn btn-primary"> Get Sample Pack </a> </div>
-      <div class="col-12 col-md-6 mt-12 mb-n12 bg-cover" style="background-image: url(assets/img/products/product-97.jpg);"></div>
+      <div class="col-12 col-md-6 mt-12 mb-n12 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-97.jpg);"></div>
     </div>
   </div>
 </section>

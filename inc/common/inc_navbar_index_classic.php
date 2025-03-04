@@ -105,7 +105,7 @@
                         
                         <!-- Background -->
                         <div class="card-bg">
-                          <div class="card-bg-img bg-cover" style="background-image: url(assets/img/products/product_2.jpg);"></div>
+                          <div class="card-bg-img bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product_2.jpg);"></div>
                         </div>
                         
                         <!-- Body -->
@@ -117,7 +117,7 @@
                         
                         <!-- Background -->
                         <div class="card-bg">
-                          <div class="card-bg-img bg-cover" style="background-image: url(assets/img/products/product_3.jpg);"></div>
+                          <div class="card-bg-img bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product_3.jpg);"></div>
                         </div>
                         
                         <!-- Body -->
@@ -131,7 +131,7 @@
                         
                         <!-- Background -->
                         <div class="card-bg">
-                          <div class="card-bg-img bg-cover" style="background-image: url(assets/img/products/product_111.jpg);"></div>
+                          <div class="card-bg-img bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product_111.jpg);"></div>
                         </div>
                         
                         <!-- Body -->

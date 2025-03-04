@@ -232,7 +232,7 @@
           <div class="col-12 col-md-4 col-lg-3 px-4"> 
             
             <!-- inc_Card -->
-            <div class="card bg-cover" style="min-height: 240px; background-image: url(assets/img/products/product-82.jpg);"> 
+            <div class="card bg-cover" style="min-height: 240px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-82.jpg);"> 
               
               <!-- inc_Badge -->
               <div class="badge bg-dark card-badge card-badge-start text-uppercase"> Sale </div>

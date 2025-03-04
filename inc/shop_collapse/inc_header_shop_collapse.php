@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<header  page="inc_header_shop_collapse"  class="py-13 jarallax" data-jarallax data-speed=".8" style="background-image: url(assets/img/covers/cover-31.jpg);">
+<header  page="inc_header_shop_collapse"  class="py-13 jarallax" data-jarallax data-speed=".8" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-31.jpg);">
   <div class="container">
     <div class="row">
       <div class="col-12"> 

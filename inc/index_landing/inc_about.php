@@ -1,5 +1,5 @@
 <!-- inc_ABOUT -->
-<section page="inc_about" class="py-12" id="about" data-jarallax data-speed=".8" style="background-image: url(assets/img/covers/cover-19.jpg);">
+<section page="inc_about" class="py-12" id="about" data-jarallax data-speed=".8" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-19.jpg);">
   <div class="container">
     <div class="row justify-content-end">
       <div class="col-12 col-md-7 col-lg-5"> 

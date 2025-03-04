@@ -2,7 +2,7 @@
 $arr_new_arrivals = array(
   array(
     'id' => '1',
-    'img' => 'assets/img/products/product-80.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-80.jpg',
     'title' => "Leather Women's Belt",
     'text' => "Accessories",
     'sum' => "$39.00",
@@ -10,7 +10,7 @@ $arr_new_arrivals = array(
   ),
   array(
     'id' => '2',
-    'img' => 'assets/img/products/product-86.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-86.jpg',
     'title' => 'Heel strappy Sandals',
     'text' => "Shoes",
     'sum' => "$99.00",
@@ -20,7 +20,7 @@ $arr_new_arrivals = array(
   ),
   array(
     'id' => '3',
-    'img' => 'assets/img/products/product-85.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-85.jpg',
     'title' => 'Leather key Case',
     'text' => "Bags",
     'sum' => "$29.00",

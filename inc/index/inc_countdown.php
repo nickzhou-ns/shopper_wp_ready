@@ -1,5 +1,5 @@
 <!-- inc_COUNTDOWN -->
-<section page="inc_countdown" class="py-13 bg-cover" style="background-image: url(assets/img/covers/cover-4.jpg)">
+<section page="inc_countdown" class="py-13 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-4.jpg)">
   <div class="container">
     <div class="row justify-content-end">
       <div class="col-12 col-md-8 col-lg-6"> 

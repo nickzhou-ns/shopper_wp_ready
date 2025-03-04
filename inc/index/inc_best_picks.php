@@ -18,11 +18,11 @@
       <div class="col-12 col-md-5 col-lg-4 d-flex flex-column"> 
         
         <!-- inc_Card -->
-        <div class="card mb-7 text-white" style="min-height: 400px; background-image: url(assets/img/products/product-1.jpg)"> 
+        <div class="card mb-7 text-white" style="min-height: 400px; background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-1.jpg)"> 
           
           <!-- inc_Background -->
           <div class="card-bg">
-            <div class="card-bg-img bg-cover" style="background-image: url(assets/img/products/product-1.jpg);"></div>
+            <div class="card-bg-img bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-1.jpg);"></div>
           </div>
           
           <!-- inc_Body -->
@@ -42,7 +42,7 @@
           
           <!-- inc_Background -->
           <div class="card-bg">
-            <div class="card-bg-img bg-cover" style="background-image: url(assets/img/products/product-2.jpg);"></div>
+            <div class="card-bg-img bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-2.jpg);"></div>
           </div>
           
           <!-- inc_Body -->
@@ -65,7 +65,7 @@
           
           <!-- inc_Background -->
           <div class="card-bg">
-            <div class="card-bg-img bg-cover" style="background-image: url(assets/img/products/product-3.jpg);"></div>
+            <div class="card-bg-img bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-3.jpg);"></div>
           </div>
           
           <!-- inc_Body -->
@@ -85,7 +85,7 @@
           
           <!-- inc_Background -->
           <div class="card-bg">
-            <div class="card-bg-img bg-cover" style="background-image: url(assets/img/products/product-4.jpg);"></div>
+            <div class="card-bg-img bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-4.jpg);"></div>
           </div>
           
           <!-- inc_Body -->

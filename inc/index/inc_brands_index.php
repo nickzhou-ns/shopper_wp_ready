@@ -2,40 +2,40 @@
 $arr_new_arrivals = array(
   array(
     'id' => '1',
-    'img' => 'assets/img/products/product-16.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-16.jpg',
     'comment' => '7',
     'text' => "248",
   ),
   array(
     'id' => '2',
-    'img' => 'assets/img/products/product-17.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-17.jpg',
     'comment' => '7',
     'text' => "248",
   ),
   array(
     'id' => '3',
-    'img' => 'assets/img/products/product-18.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-18.jpg',
     'comment' => '7',
     'text' => "248",
 
   ),
   array(
     'id' => '4',
-    'img' => 'assets/img/products/product-19.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-19.jpg',
     'comment' => '7',
     'text' => "248",
 
   ),
   array(
     'id' => '5',
-    'img' => 'assets/img/products/product-20.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-20.jpg',
     'comment' => '7',
     'text' => "248",
 
   ),
   array(
     'id' => '6',
-    'img' => 'assets/img/products/product-21.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-21.jpg',
     'comment' => '7',
     'text' => "248",
 

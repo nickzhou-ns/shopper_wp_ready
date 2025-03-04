@@ -52,7 +52,7 @@
                   <!-- Radio -->
                   <div class="mb-8 ms-n1">
                     <div class="form-check form-check-inline form-check-img">
-                      <input type="radio" class="form-check-input" id="imgRadioOne" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="Pink" style="background-image: url(assets/img/products/product-157.jpg);" checked>
+                      <input type="radio" class="form-check-input" id="imgRadioOne" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="Pink" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-157.jpg);" checked>
                     </div>
                   </div>
                 </div>

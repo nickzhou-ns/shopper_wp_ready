@@ -6,8 +6,8 @@
     <div class="container-cover">
       <div class="container">
         <div class="row">
-          <div class="col-6 d-none d-md-block bg-cover bg-clip-content" style="background-image: url(assets/img/covers/cover-11.jpg);"></div>
-          <div class="col-12 col-md-6 bg-cover bg-clip-content" style="background-image: url(assets/img/covers/cover-12.jpg);"></div>
+          <div class="col-6 d-none d-md-block bg-cover bg-clip-content" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-11.jpg);"></div>
+          <div class="col-12 col-md-6 bg-cover bg-clip-content" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-12.jpg);"></div>
         </div>
       </div>
     </div>

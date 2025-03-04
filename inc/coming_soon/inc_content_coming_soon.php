@@ -1,5 +1,5 @@
 <!-- CONTENT -->
-<section  page="inc_content_coming_soon"  class="bg-cover" style="margin-top: -90px; background-image: url(assets/img/covers/cover-22.jpg);">
+<section  page="inc_content_coming_soon"  class="bg-cover" style="margin-top: -90px; background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-22.jpg);">
   <div class="container d-flex flex-column">
     <div class="row align-items-center justify-content-center min-vh-100 pt-13 pb-12">
       <div class="col-12 col-md-10 col-lg-8 col-xl-6 text-center text-white"> 

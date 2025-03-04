@@ -3,28 +3,28 @@ $arr_featured_brands = array(
   array(
     'id' => '1',
     'text' => '30% OFF',
-    'img' => 'assets/img/brands/black/mango.svg',
+    'img' => get_template_directory_uri() . 'assets/img/brands/black/mango.svg',
     'url' => 'shop.php',
 
   ),
   array(
     'id' => '2',
     'text' => '15% OFF',
-    'img' => 'assets/img/brands/black/river-island.svg',
+    'img' => get_template_directory_uri() . 'assets/img/brands/black/river-island.svg',
     'url' => 'shop.php',
 
   ),
   array(
     'id' => '3',
     'text' => '30% OFF',
-    'img' => 'assets/img/brands/black/esprit.svg',
+    'img' => get_template_directory_uri() . 'assets/img/brands/black/esprit.svg',
     'url' => 'shop.php',
 
   ),
   array(
     'id' => '4',
     'text' => '50% OFF',
-    'img' => 'assets/img/brands/black/zara.svg',
+    'img' => get_template_directory_uri() . 'assets/img/brands/black/zara.svg',
     'url' => 'shop.php',
 
   ),

@@ -75,10 +75,10 @@
                 <!-- Radio -->
                 <div class="mb-8 ms-n1">
                   <div class="form-check form-check-inline form-check-img">
-                    <input type="radio" class="form-check-input" id="imgRadioOne" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="Red" style="background-image: url(assets/img/products/product-151.jpg);" checked>
+                    <input type="radio" class="form-check-input" id="imgRadioOne" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="Red" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-151.jpg);" checked>
                   </div>
                   <div class="form-check form-check-inline form-check-img">
-                    <input type="radio" class="form-check-input" id="imgRadioTwo" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="Green" style="background-image: url(assets/img/products/product-152.jpg);">
+                    <input type="radio" class="form-check-input" id="imgRadioTwo" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="Green" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-152.jpg);">
                   </div>
                 </div>
               </div>

@@ -3,7 +3,7 @@
   
   <!-- Item -->
   <div class="w-100">
-    <div class="card bg-h-100 bg-start" style="background-image: url(assets/img/covers/cover-24.jpg);">
+    <div class="card bg-h-100 bg-start" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-24.jpg);">
       <div class="row" style="min-height: 400px;">
         <div class="col-12 col-md-10 col-lg-8 col-xl-6 align-self-center">
           <div class="card-body px-md-10 py-11"> 
@@ -14,14 +14,14 @@
             <!-- Button --> 
             <a class="btn btn-link px-0 text-body" href="shop.php"> View Collection <i class="fe fe-arrow-right ms-2"></i> </a> </div>
         </div>
-        <div class="col-12 col-md-2 col-lg-4 col-xl-6 d-none d-md-block bg-cover" style="background-image: url(assets/img/covers/cover-16.jpg);"></div>
+        <div class="col-12 col-md-2 col-lg-4 col-xl-6 d-none d-md-block bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-16.jpg);"></div>
       </div>
     </div>
   </div>
   
   <!-- Item -->
   <div class="w-100">
-    <div class="card bg-cover" style="background-image: url(assets/img/covers/cover-29.jpg)">
+    <div class="card bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-29.jpg)">
       <div class="row align-items-center" style="min-height: 400px;">
         <div class="col-12 col-md-10 col-lg-8 col-xl-6">
           <div class="card-body px-md-10 py-11"> 
@@ -42,7 +42,7 @@
   
   <!-- Item -->
   <div class="w-100">
-    <div class="card bg-cover" style="background-image: url(assets/img/covers/cover-30.jpg);">
+    <div class="card bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-30.jpg);">
       <div class="row align-items-center" style="min-height: 400px;">
         <div class="col-12">
           <div class="card-body px-md-10 py-11 text-center text-white"> 

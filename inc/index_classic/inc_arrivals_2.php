@@ -8,8 +8,8 @@ $arr_arrivals_2 = array(
     'title' => 'Textured cotton Top',
     'text' => '<span class="text-gray-350 text-decoration-line-through">$90.00</span>
                <span class="fs-lg text-primary">$69.00</span>',
-    'img_lg' => 'assets/img/products/product-34.jpg',
-    'img' => 'assets/img/products/product-35.jpg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/products/product-34.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-35.jpg',
     'url' => 'product.php',
 
   ),
@@ -18,8 +18,8 @@ $arr_arrivals_2 = array(
     'badge' => '',
     'title' => 'Animal crossbody Bag',
     'text' => '<span class="fs-lg text-muted">$59.00</span>',
-    'img_lg' => 'assets/img/products/product-136.jpg',
-    'img' => 'assets/img/products/product-137.jpg', 'url' =>
+    'img_lg' => get_template_directory_uri() . 'assets/img/products/product-136.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-137.jpg', 'url' =>
     'product.php',
 
   ),
@@ -28,8 +28,8 @@ $arr_arrivals_2 = array(
     'badge' => '',
     'title' => 'Jacket with Pockets',
     'text' => '<span class="fs-lg text-muted">$70.00</span>',
-    'img_lg' => 'assets/img/products/product-138.jpg',
-    'img' => 'assets/img/products/product-139.jpg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/products/product-138.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-139.jpg',
     'url' => 'product.php',
 
   ),

@@ -3,7 +3,7 @@
   <div data-flickity='{"prevNextButtons": true, "fade": true}'> 
     
     <!-- Item -->
-    <div class="w-100 bg-cover" style="background-image: url(assets/img/covers/cover-5.jpg);">
+    <div class="w-100 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-5.jpg);">
       <div class="container d-flex flex-column">
         <div class="row align-items-center py-12" style="min-height: 550px;">
           <div class="col-12 col-md-6 col-lg-5 col-xl-4 offset-md-1"> 
@@ -24,7 +24,7 @@
     </div>
     
     <!-- Item -->
-    <div class="w-100 bg-cover" style="background-image: url(assets/img/covers/cover-23.jpg);">
+    <div class="w-100 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-23.jpg);">
       <div class="container d-flex flex-column">
         <div class="row align-items-center justify-content-end py-12" style="min-height: 550px;">
           <div class="col-12 col-md-6 col-lg-5 col-xl-4 offset-md-n1"> 
@@ -43,7 +43,7 @@
     </div>
     
     <!-- Item -->
-    <div class="w-100 bg-cover" style="background-image: url(assets/img/covers/cover-16.jpg);">
+    <div class="w-100 bg-cover" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/covers/cover-16.jpg);">
       <div class="bg-dark-20">
         <div class="container d-flex flex-column">
           <div class="row align-items-center justify-content-end" style="min-height: 550px;">

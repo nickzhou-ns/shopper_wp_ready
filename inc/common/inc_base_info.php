@@ -63,4 +63,8 @@ $new_title_ul_1 = " ";
 $new_title_ul_2 = " ";
 $new_title_ul_3 = " ";
 $new_title_ul_4 = " ";
+
+function get_template_directory_uri(){
+    return "wp/";
+}
 ?>

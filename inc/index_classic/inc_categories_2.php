@@ -24,37 +24,37 @@
                   'id' => '1',
                   'title' => 'Dresses <small>(58)</small>',
                   'url' => 'shop.php',
-                  'img' => 'assets/img/products/product-25.jpg',
+                  'img' => get_template_directory_uri() . 'assets/img/products/product-25.jpg',
                 ),
                 array(
                   'id' => '2',
                   'title' => ' Tops <small>(35)</small>',
                   'url' => 'shop.php',
-                  'img' => 'assets/img/products/product-26.jpg',
+                  'img' => get_template_directory_uri() . 'assets/img/products/product-26.jpg',
                 ),
                 array(
                   'id' => '3',
                   'title' => ' T-shirts <small>(27)</small>',
                   'url' => 'shop.php',
-                  'img' => 'assets/img/products/product-27.jpg',
+                  'img' => get_template_directory_uri() . 'assets/img/products/product-27.jpg',
                 ),
                 array(
                   'id' => '1',
                   'title' => '  Shoes <small>(64)</small>',
                   'url' => 'shop.php',
-                  'img' => 'assets/img/products/product-28.jpg',
+                  'img' => get_template_directory_uri() . 'assets/img/products/product-28.jpg',
                 ),
                 array(
                   'id' => '2',
                   'title' => 'Sweatshirts <small>(11)</small>',
                   'url' => 'shop.php',
-                  'img' => 'assets/img/products/product-125.jpg',
+                  'img' => get_template_directory_uri() . 'assets/img/products/product-125.jpg',
                 ),
                 array(
                   'id' => '3',
                   'title' => ' Jackets <small>(9)</small>',
                   'url' => 'shop.php',
-                  'img' => 'assets/img/products/product-126.jpg',
+                  'img' => get_template_directory_uri() . 'assets/img/products/product-126.jpg',
                 ),
 
               );

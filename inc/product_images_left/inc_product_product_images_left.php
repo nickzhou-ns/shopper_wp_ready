@@ -14,16 +14,16 @@
                 <div class="flickity-nav flickity-vertical" data-flickity='{"asNavFor": "#productSlider", "draggable": false}'> 
                   
                   <!-- Item -->
-                  <div class="ratio ratio-1x1 bg-cover mb-4" style="background-image: url(assets/img/products/product-112.jpg);"></div>
+                  <div class="ratio ratio-1x1 bg-cover mb-4" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-112.jpg);"></div>
                   
                   <!-- Item -->
-                  <div class="ratio ratio-1x1 bg-cover mb-4" style="background-image: url(assets/img/products/product-113.jpg);"></div>
+                  <div class="ratio ratio-1x1 bg-cover mb-4" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-113.jpg);"></div>
                   
                   <!-- Item -->
-                  <div class="ratio ratio-1x1 bg-cover mb-4" style="background-image: url(assets/img/products/product-114.jpg);"></div>
+                  <div class="ratio ratio-1x1 bg-cover mb-4" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-114.jpg);"></div>
                   
                   <!-- Item -->
-                  <div class="ratio ratio-1x1 bg-cover mb-4" style="background-image: url(assets/img/products/product-115.jpg);"></div>
+                  <div class="ratio ratio-1x1 bg-cover mb-4" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-115.jpg);"></div>
                 </div>
               </div>
               <div class="col-10"> 
@@ -89,7 +89,7 @@
                 <!-- Radio -->
                 <div class="mb-8 ms-n1">
                   <div class="form-check form-check-inline form-check-img">
-                    <input type="radio" class="form-check-input" id="imgRadioOne" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="White" style="background-image: url(assets/img/products/product-115.jpg);" checked>
+                    <input type="radio" class="form-check-input" id="imgRadioOne" name="imgRadio" data-toggle="form-caption" data-target="#colorCaption" value="White" style="background-image: url(<?=get_template_directory_uri()?>/assets/img/products/product-115.jpg);" checked>
                   </div>
                 </div>
               </div>

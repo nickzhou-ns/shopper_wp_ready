@@ -4,7 +4,7 @@ $arr_details = array(
     'id' => '1',
     'title' => "For eyes of any Color",
 
-    'img_lg' => 'assets/img/icons/icon-eye.svg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/icons/icon-eye.svg',
 
     'text' => 'I over whose fruitful together fish likeness
     moved our. Give made firmament female
@@ -14,7 +14,7 @@ $arr_details = array(
     'id' => '2',
     'title' => "Convenient Packaging",
 
-    'img_lg' => 'assets/img/icons/icon-drops.svg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/icons/icon-drops.svg',
 
     'text' => 'I over whose fruitful together fish likeness
     moved our. Give made firmament female
@@ -24,7 +24,7 @@ $arr_details = array(
     'id' => '3',
     'title' => "Airtight Materials",
 
-    'img_lg' => 'assets/img/icons/icon-pack.svg',
+    'img_lg' => get_template_directory_uri() . 'assets/img/icons/icon-pack.svg',
     'text' => 'I over whose fruitful together fish likeness
     moved our. Give made firmament female
     set divided make.',

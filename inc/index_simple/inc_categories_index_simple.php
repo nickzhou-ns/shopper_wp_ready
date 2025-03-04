@@ -3,37 +3,37 @@ $arr_details = array(
   array(
     'id' => '1',
     'title' => "Sunglasses",
-    'img' => 'assets/img/products/product-54.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-54.jpg',
     'url' => 'shop.php',
   ),
   array(
     'id' => '2',
     'title' => "Flat Shoes",
-    'img' => 'assets/img/products/product-55.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-55.jpg',
     'url' => 'shop.php',
   ),
   array(
     'id' => '3',
     'title' => "T-Shirts",
-    'img' => 'assets/img/products/product-56.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-56.jpg',
     'url' => 'shop.php',
   ),
   array(
     'id' => '4',
     'title' => "Sweatshirts",
-    'img' => 'assets/img/products/product-57.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-57.jpg',
     'url' => 'shop.php',
   ),
   array(
     'id' => '5',
     'title' => "Dresses",
-    'img' => 'assets/img/products/product-58.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-58.jpg',
     'url' => 'shop.php',
   ),
   array(
     'id' => '6',
     'title' => "Bags",
-    'img' => 'assets/img/products/product-59.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-59.jpg',
     'url' => 'shop.php',
   ),
 );

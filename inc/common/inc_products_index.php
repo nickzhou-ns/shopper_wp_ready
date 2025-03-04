@@ -7,7 +7,7 @@ $arr_features = array(
     'sum_lg' => '$99.00',
     'sum' => '$59.00',
     'url' => 'shop.php',
-    'img' => 'assets/img/products/product-30.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-30.jpg',
   ),
   array(
     'id' => '2',
@@ -16,7 +16,7 @@ $arr_features = array(
     'sum_lg' => '$99.00',
     'sum' => '$59.00',
     'url' => 'shop.php',
-    'img' => 'assets/img/products/product-31.jpg',
+    'img' => get_template_directory_uri() . 'assets/img/products/product-31.jpg',
   ),
 
 
